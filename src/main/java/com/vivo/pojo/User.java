@@ -8,4 +8,8 @@ package com.vivo.pojo;
  **/
 public class User {
     private String name;
+    /**
+     * 修改了代码
+     */
+    private Integer age;
 }
